@@ -1,0 +1,11 @@
+{
+  "campgrounds": [
+    {
+      "name": "EXAMPLE - Upper Pines (Yosemite)",
+      "facility_id": "232447",
+      "site_ids": [],
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-30"
+    }
+  ]
+}
